@@ -13,7 +13,7 @@ redirect_from:
 
 
 # Recent News
-February 28, 2019. A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368)
+February 28, 2019. A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved state-of-the-art performance in [Visual Dialog](https://visualdialog.org) task.
 
 August 25, 2018. A paper titled "Contextualized Bilinear Attention Networks" was accepted at ECCV 2018 Workshop in [VizWiz Grand Challenge](http://vizwiz.org/workshop/).
 
