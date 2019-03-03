@@ -9,13 +9,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tzu-Wei Huang's Website"
+title                    : "Gi-Cheon Kang"
 title_separator          : "-"
 name                     : &name "Tzu-Wei Huang"
-description              : &description "Ph.D. student and lecturer at NTHU"
-url                      : https://lanpa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Master student at SNU"
+url                      : https://gicheonkang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lanpa.github.io"
+repository               : "gicheonkang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Ph.D. student and lecturer at NTHU, interested in machine learning."
-  location         : "Taiwan"
+  bio              : "Master student at Seoul National University, interested in artificial intelligence."
+  location         : "Seoul, Korea"
   employer         :
-  googlescholar    : "https://scholar.google.com.tw/citations?user=p_JjrzcAAAAJ&hl=en"
-  email            :
+  googlescholar    : "https://scholar.google.co.kr/citations?user=I152NQYAAAAJ&hl=ko"
+  email            : "chonkang@snu.ac.kr"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,16 +94,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lanpa"
+  github           : "gicheonkang"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tzu-wei-huang-a7273a29/"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/1525710/lanpa"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
