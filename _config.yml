@@ -11,7 +11,7 @@
 locale                   : "en-US"
 title                    : "Gi-Cheon Kang"
 title_separator          : "-"
-name                     : &name "Tzu-Wei Huang"
+name                     : &name "Gi-Cheon Kang"
 description              : &description "Master student at SNU"
 url                      : https://gicheonkang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
