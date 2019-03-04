@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* I am a second-year master student in Cognitive Science Program at the [Seoul National University](http://en.snu.ac.kr), advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). My research interests are in Computer Vision, Machine Learning, and Deep Learning. I'm particularly interested in the areas of Video Understanding and Visual Dialog Agents.
-* I received my Bachelor’s Degree in the Computer Science at [Ajou University](http://www.ajou.ac.kr/en/). My undergraduate research advisors are [Prof. Wonjun Hwang](https://sites.google.com/site/haepaly/Home).
+* I am a second-year master student in Cognitive Science Program at the [Seoul National University](http://en.snu.ac.kr), advised by [Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/~btzhang/). My research interests are in computer vision, machine learning, and deep learning. I'm particularly interested in the areas of video understanding and visual dialog agents.
+* I received my bachelor’s degree in computer science at [Ajou University](http://www.ajou.ac.kr/en/). My undergraduate research advisors are [Prof. Wonjun Hwang](https://sites.google.com/site/haepaly/Home).
 
 
 # Recent News
