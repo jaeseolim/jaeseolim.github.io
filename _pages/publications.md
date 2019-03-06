@@ -5,8 +5,11 @@ author_profile: true
 ---
 
 ## Preprints
-
-
+<b>Grit Can Hurt You</b> <br>
+Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
+Journal of Psychological Science, 2019.<br>
+*in Progress*<br>
+<br>
 
 <b>How to Enhance Discussion Effect on Learning</b> <br>
 **Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jungjoon Ihm, and Jooyong Park. <br>
@@ -17,6 +20,18 @@ Journal of Korean Medical Science, 2019. <br>
 Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 Korean Educational Psychology Association, 2019. <br>
 *in progress*<br>
+<br>
+
+<b>When Are Discussions More Effective?</b> <br>
+**Jaeseo Lim**, and Jooyong Park. <br>
+Journal of Educational Psychology, 2019 <br>
+*Submitted* <br>
+<br>
+
+<b>Discussions: A Medium That Promotes Learning</b> <br>
+**Jaeseo Lim**, and Jooyong Park. <br>
+Learning Science, 2019 <br>
+*Submitted* <br>
 <br>
 
 <b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
