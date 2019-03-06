@@ -23,7 +23,7 @@ Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang R
 **Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jungjoon Ihm, and Jooyong Park. <br>
 Thirty-first Association for Psychological Science (APS) Convention, May 2019. <br>
 <br>
-<b>Grit Can Hurt You</b>
+<b>Grit Can Hurt You</b> <br>
 Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 Thirty-first Association for Psychological Science (APS) Convention, May 2019.<br>
 <br>
