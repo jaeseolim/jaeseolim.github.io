@@ -5,6 +5,15 @@ author_profile: true
 ---
 
 ## Preprints
+
+
+
+<b>How to Enhance Discussion Effect on Learning</b> <br>
+**Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jungjoon Ihm, and Jooyong Park. <br>
+Journal of Korean Medical Science 2019. <br>
+*in progress*<br>
+<br>
+
 <b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 International Joint Conference on Artificial Intelligence, August 2019.<br>
