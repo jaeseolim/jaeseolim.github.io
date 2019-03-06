@@ -10,7 +10,12 @@ author_profile: true
 
 <b>How to Enhance Discussion Effect on Learning</b> <br>
 **Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jungjoon Ihm, and Jooyong Park. <br>
-Journal of Korean Medical Science 2019. <br>
+Journal of Korean Medical Science, 2019. <br>
+*in progress*<br>
+<br>
+<b>The Effect of University Classes Using Peer Assessment on Writing Ability</b> <br>
+Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
+Korean Educational Psychology Association, 2019. <br>
 *in progress*<br>
 <br>
 
