@@ -28,7 +28,7 @@ Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 Thirty-first Association for Psychological Science (APS) Convention, May 2019.<br>
 <br>
 <b>When Are Discussions More Effective: After a Lecture or Self-study?</b> <br>
-**Jaeseo Lim**, and Jooyong Park.
+**Jaeseo Lim**, and Jooyong Park. <br>
 Eighth Annual International Conference on Cognitive and Behavioral Psychology (CBP), Feburary 2019.
 
 ## 2018
