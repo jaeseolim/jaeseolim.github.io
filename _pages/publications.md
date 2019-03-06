@@ -8,7 +8,7 @@ author_profile: true
 <b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 International Joint Conference on Artificial Intelligence, August 2019.<br>
-*Submitted*
+*Submitted* <br>
 <br>
 <b>Constructing Hierarchical Q&A Datasets for Video Story Understanding</b> <br>
 Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang Ryu, Byung-Chull Bae, and Byoung-Tak Zhang.<br>
