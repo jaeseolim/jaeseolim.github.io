@@ -10,6 +10,11 @@ Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 International Joint Conference on Artificial Intelligence, August 2019.<br>
 *Submitted* <br>
 <br>
+<b>Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
+Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
+Cognitive Science, July 2019. <br>
+*Submitted* <br>
+<br>
 <b>Constructing Hierarchical Q&A Datasets for Video Story Understanding</b> <br>
 Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang Ryu, Byung-Chull Bae, and Byoung-Tak Zhang.<br>
 arXiv. 2019.<br>
