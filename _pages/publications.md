@@ -36,17 +36,17 @@ Learning Science, 2019 <br>
 
 <b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
-International Joint Conference on Artificial Intelligence, August 2019.<br>
+International Joint Conference on Artificial Intelligence, 2019.<br>
 *Submitted* <br>
 <br>
 <b>Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
-Cognitive Science, July 2019. <br>
+Cognitive Science, 2019. <br>
 *Submitted* <br>
 <br>
 <b>WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
 Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**<br>
-Designing Interactive Systems (DIS), June 2019. <br>
+Designing Interactive Systems (DIS), 2019. <br>
 *Submitted* <br>
 <br>
 
