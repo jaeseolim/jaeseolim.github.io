@@ -8,7 +8,7 @@ author_profile: true
 <b>Grit Can Hurt You</b> <br>
 Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 Journal of Psychological Science, 2019.<br>
-*in Progress*<br>
+*in progress*<br>
 <br>
 
 <b>How to Enhance Discussion Effect on Learning</b> <br>
