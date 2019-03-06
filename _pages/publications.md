@@ -25,7 +25,7 @@ Thirty-first Association for Psychological Science (APS) Convention, May 2019. <
 <br>
 <b>Grit Can Hurt You</b>
 Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
-Thirty-first Association for Psychological Science (APS) Convention, May 2019.
+Thirty-first Association for Psychological Science (APS) Convention, May 2019.<br>
 <br>
 <b>When Are Discussions More Effective: After a Lecture or Self-study?</b>
 **Jaeseo Lim**, and Jooyong Park.
