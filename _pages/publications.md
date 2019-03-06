@@ -15,13 +15,20 @@ Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
 Cognitive Science, July 2019. <br>
 *Submitted* <br>
 <br>
-<b>Constructing Hierarchical Q&A Datasets for Video Story Understanding</b> <br>
-Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang Ryu, Byung-Chull Bae, and Byoung-Tak Zhang.<br>
-arXiv. 2019.<br>
+<b>WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
+Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**<br>
+Designing Interactive Systems (DIS), June 2019. <br>
+*Submitted* <br>
+<br>
+
 
 ## 2019
 <b>[Dual Attention Networks for Visual Reference Resolution in Visual Dialog](https://arxiv.org/abs/1902.09368)</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
+arXiv. 2019.<br>
+<br>
+<b>Constructing Hierarchical Q&A Datasets for Video Story Understanding</b> <br>
+Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang Ryu, Byung-Chull Bae, and Byoung-Tak Zhang.<br>
 arXiv. 2019.<br>
 <br>
 <b>Constructing Hierarchical Q&A Datasets for Video Story Understanding</b> <br>
