@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Preprints
-<b>[Dual Attention Networks for Visual Reference Resolution in Visual Dialog](https://arxiv.org/abs/1902.09368)</b> <br>
+<b>[Dual Attention Networks for Visual Reference Resolution in Visual Dialog]</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 International Joint Conference on Artificial Intelligence, August 2019.<br>
 <br>
