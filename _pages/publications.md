@@ -13,7 +13,10 @@ arXiv. 2019.
 ## 2019
 <b>Constructing Hierarchical Q&A Datasets for Video Story Understanding</b>,<br>
 Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang Ryu, Byung-Chull Bae, and Byoung-Tak Zhang.<br>
-2019 AAAI Spring Symposia, March 2019.
+2019 AAAI Spring Symposia, March 2019. <br> 
+<br>
+1111
+
 
 ## 2018
 <b>How Learning Method Affect Learning Outcome: Focusing on Discussions in Learning</b> <br>
