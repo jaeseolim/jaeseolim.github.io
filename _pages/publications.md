@@ -6,7 +6,7 @@ author_profile: true
 
 ## Preprints
 
-<b>Constructing Hierarchical Q&A Datasets for Video Story Understanding</b>,<br>
+<b>Constructing Hierarchical Q&A Datasets for Video Story Understanding</b> <br>
 Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang Ryu, Byung-Chull Bae, and Byoung-Tak Zhang.<br>
 arXiv. 2019.<br>
 
@@ -15,7 +15,7 @@ arXiv. 2019.<br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 arXiv. 2019.<br>
 <br>
-<b>Constructing Hierarchical Q&A Datasets for Video Story Understanding</b>,<br>
+<b>Constructing Hierarchical Q&A Datasets for Video Story Understanding</b> <br>
 Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang Ryu, Byung-Chull Bae, and Byoung-Tak Zhang.<br>
 2019 AAAI Spring Symposia, March 2019. <br> 
 <br>
@@ -26,7 +26,10 @@ Thirty-first Association for Psychological Science (APS) Convention, May 2019. <
 <b>Grit Can Hurt You</b>
 Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 Thirty-first Association for Psychological Science (APS) Convention, May 2019.
-
+<br>
+<b>When Are Discussions More Effective: After a Lecture or Self-study?</b>
+**Jaeseo Lim**, and Jooyong Park.
+Eighth Annual International Conference on Cognitive and Behavioral Psychology (CBP), Feburary 2019.
 
 ## 2018
 <b>How Learning Method Affect Learning Outcome: Focusing on Discussions in Learning</b> <br>
