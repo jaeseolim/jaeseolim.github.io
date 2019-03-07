@@ -15,7 +15,7 @@ Journal of Psychological Science, 2019.<br>
 Journal of Korean Medical Science, 2019. <br>
 *in progress*<br>
 <br>
-<b>The Effect of University Classes Using Peer Assessment on Writing Ability</b> <br>
+<b>The Effect of Peer Assessment on Writing Ability in University Classes</b> <br>
 Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 Korean Educational Psychology Association, 2019. <br>
 *in progress*<br>
