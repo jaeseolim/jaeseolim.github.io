@@ -27,7 +27,7 @@ Journal of Educational Psychology, 2019 <br>
 <br>
 <b>Discussions: A Medium That Promotes Learning</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
-Journal of learning Science, 2019 <br>
+Journal of Learning Science, 2019 <br>
 *Submitted* <br>
 <br>
 <b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
