@@ -21,6 +21,7 @@ Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 **Jaeseo Lim**, Gi-Cheon Kang, and Byoung-Tak Zhang.<br>
 International Conference on cognitive science, August, 2019.<br>
 *Submitted* <br>
+<br>
 <b>When Are Discussions More Effective?</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
 Journal of Educational Psychology, 2019 <br>
