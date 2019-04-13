@@ -47,7 +47,7 @@ Mobile HCI, 2019. <br>
 ## 2019
 <b>[C6] Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
-Cognitive Science, July, 2019. <br>
+The 41st Annual Meeting of the Cognitive Science Society, July, 2019. <br>
 <br>
 <b>[Dual Attention Networks for Visual Reference Resolution in Visual Dialog](https://arxiv.org/abs/1902.09368)</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
