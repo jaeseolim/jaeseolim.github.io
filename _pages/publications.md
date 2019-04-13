@@ -17,6 +17,10 @@ Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *in progress*<br>
 <br>
+<b>Human-like Memory Architecture for Visual Reference Resolution</b> <br>
+**Jaeseo Lim**, Gi-Cheon Kang, and Byoung-Tak Zhang.<br>
+International Conference on cognitive science, August, 2019.<br>
+*Submitted* <br>
 <b>When Are Discussions More Effective?</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
 Journal of Educational Psychology, 2019 <br>
@@ -24,18 +28,17 @@ Journal of Educational Psychology, 2019 <br>
 <br>
 <b>Discussions: A Medium That Promotes Learning</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
-Journal of Learning Science, 2019 <br>
+Journal of Learning Sciences, 2019 <br>
 *Submitted* <br>
 <br>
 <b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 International Joint Conference on Artificial Intelligence, 2019.<br>
 *Submitted* <br>
-
 <br>
 <b>WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
 Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**<br>
-Designing Interactive Systems (DIS), 2019. <br>
+Mobile HCI, 2019. <br>
 *Submitted* <br>
 <br>
 
