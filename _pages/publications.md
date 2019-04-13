@@ -45,7 +45,7 @@ Mobile HCI, 2019. <br>
 
 
 ## 2019
-<b>Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
+<b>[C6] Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
 Cognitive Science, July, 2019. <br>
 <br>
