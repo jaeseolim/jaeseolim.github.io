@@ -61,10 +61,6 @@ Thirty-first Association for Psychological Science (APS) Convention, May 2019. <
 Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 Thirty-first Association for Psychological Science (APS) Convention, May 2019.<br>
 <br>
-<b>Constructing Hierarchical Q&A Datasets for Video Story Understanding</b> <br>
-Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang Ryu, Byung-Chull Bae, and Byoung-Tak Zhang.<br>
-arXiv, 2019.<br>
-<br>
 <b>[C3] Constructing Hierarchical Q&A Datasets for Video Story Understanding</b> <br>
 Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang Ryu, Byung-Chull Bae, and Byoung-Tak Zhang.<br>
 2019 AAAI Spring Symposia, March 2019. <br> 
