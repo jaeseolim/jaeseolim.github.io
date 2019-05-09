@@ -27,7 +27,7 @@ International Conference on cognitive science, August, 2019.<br>
 Journal of Educational Psychology, 2019 <br>
 *Submitted* <br>
 <br>
-<b>Discussions: A Medium That Promotes Learning</b> <br>
+<b>Discussions: A Medium that Promotes Learning</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
 Journal of Learning Sciences, 2019 <br>
 *Submitted* <br>
@@ -45,6 +45,10 @@ Mobile HCI, 2019. <br>
 
 
 ## 2019
+<b>Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
+Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
+psyarxiv, 2019.<br>
+<br>
 <b>[C6] Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
 The 41st Annual Meeting of the Cognitive Science Society, July, 2019. <br>
