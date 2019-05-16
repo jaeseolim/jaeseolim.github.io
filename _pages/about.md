@@ -14,4 +14,4 @@ Jaeseo Lim is a cognitive science researcher interested in issues of how student
 
 
 # Recent News
-* [February 28, 2019] A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved state-of-the-art performance in [Visual Dialog](https://visualdialog.org) task.
+<!-- * [February 28, 2019] A paper titled "Dual Attention Networks for Visual Reference Resolution in Visual Dialog" was uploaded to [arXiv](https://arxiv.org/abs/1902.09368). Our model achieved state-of-the-art performance in [Visual Dialog](https://visualdialog.org) task. -->
