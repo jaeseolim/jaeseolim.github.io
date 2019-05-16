@@ -32,10 +32,10 @@ Journal of Educational Psychology, 2019 <br>
 Journal of Learning Sciences, 2019 <br>
 *Submitted* <br>
 <br>
-<b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
+<!--<b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 International Joint Conference on Artificial Intelligence, 2019.<br>
-*Submitted* <br>
+*Submitted* <br> -->
 <br>
 <b>WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
 Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**<br>
@@ -53,9 +53,9 @@ psyarxiv, 2019.<br>
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
 The 41st Annual Meeting of the Cognitive Science Society, July, 2019. <br>
 <br>
-<b>[Dual Attention Networks for Visual Reference Resolution in Visual Dialog](https://arxiv.org/abs/1902.09368)</b> <br>
+<!--<b>[Dual Attention Networks for Visual Reference Resolution in Visual Dialog](https://arxiv.org/abs/1902.09368)</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
-arXiv, 2019.<br>
+arXiv, 2019.<br> -->
 <br>
 <b>[C5] How to Enhance Discussion Effect on Learning</b> <br>
 **Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jungjoon Ihm, and Jooyong Park. <br>
