@@ -17,20 +17,15 @@ Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *in progress*<br>
 <br>
-<b>Human-like Memory Architecture for Visual Reference Resolution</b> <br>
-**Jaeseo Lim**, Gi-Cheon Kang, and Byoung-Tak Zhang.<br>
-International Conference on cognitive science, August, 2019.<br>
-*Submitted* <br>
-<br>
 <b>When Are Discussions More Effective?</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
 Journal of Educational Psychology, 2019 <br>
-*Submitted* <br>
+*in progress* <br>
 <br>
 <b>Discussions: A Medium that Promotes Learning</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
 Journal of Learning Sciences, 2019 <br>
-*Submitted* <br>
+*in progress* <br>
 <br>
 <!--<b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
@@ -42,12 +37,17 @@ Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**<br>
 Mobile HCI, 2019. <br>
 *Submitted* <br>
 <br>
+<b>Human-like Memory Architecture for Visual Reference Resolution</b> <br>
+**Jaeseo Lim**, Gi-Cheon Kang, and Byoung-Tak Zhang.<br>
+International Conference on cognitive science, August, 2019.<br>
+*Submitted* <br>
+<br>
 
 
 ## 2019
-<b>Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
+<b>[C7] Simulating Problem Difficulty in Arithmetic Cognition Through Dynamic Connectionist Models</b> <br> 
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
-psyarxiv, 2019.<br>
+The 17th International Conference on Cognitive Modelling (ICCM 2019), July, 2019. <br>
 <br>
 <b>[C6] Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
