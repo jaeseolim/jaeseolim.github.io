@@ -32,7 +32,7 @@ International Joint Conference on Artificial Intelligence, 2019.<br>
 <br> -->
 <b>Discussions: A Medium that Promotes Learning</b> <br>
 **Jaeseo Lim**, Bongju Shin, and Jooyong Park. <br>
-The 83rd Annual Convention of the Japanese Psychological Association
+The 83rd Annual Convention of the Japanese Psychological Association<br>
 *Submitted* <br>
 <br>
 <b>WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
