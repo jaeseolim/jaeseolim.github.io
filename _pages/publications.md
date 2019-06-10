@@ -56,11 +56,11 @@ arXiv, 2019.<br>
 <br> -->
 <b>[C5] How to Enhance Discussion Effect on Learning</b> <br>
 **Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jungjoon Ihm, and Jooyong Park. <br>
-Thirty-first Association for Psychological Science (APS) Convention, May 2019. <br>
+The 31st Association for Psychological Science (APS) Annual Convention, May 2019. <br>
 <br>
 <b>[C4] Grit Can Hurt You</b> <br>
 Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
-Thirty-first Association for Psychological Science (APS) Convention, May 2019.<br>
+The 31st Association for Psychological Science (APS) Annual Convention, May 2019.<br>
 <br>
 <b>[C3] Constructing Hierarchical Q&A Datasets for Video Story Understanding</b> <br>
 Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang Ryu, Byung-Chull Bae, and Byoung-Tak Zhang.<br>
