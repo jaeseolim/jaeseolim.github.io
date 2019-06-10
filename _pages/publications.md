@@ -19,12 +19,10 @@ Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 <br>
 <b>When Are Discussions More Effective?</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
-Journal of Educational Psychology, 2019 <br>
 *in progress* <br>
 <br>
 <b>Discussions: A Medium that Promotes Learning</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
-Journal of Learning Sciences, 2019 <br>
 *in progress* <br>
 <br>
 <!--<b>Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
