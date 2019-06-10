@@ -68,10 +68,10 @@ Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang R
 <br>
 <b>[C2] When Are Discussions More Effective: After a Lecture or Self-study?</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
-Eighth Annual International Conference on Cognitive and Behavioral Psychology (CBP), Feburary 2019.
+8th Annual International Conference on Cognitive and Behavioral Psychology (CBP), Feburary 2019.
 
 
 ## 2018
 <b>[C1] How Learning Method Affect Learning Outcome: Focusing on Discussions in Learning</b> <br>
-  **Jaeseo Lim**, and Jooyong Park. <br>
-  Seventy-Second Annual conference on Korean psychological association, August 2018.
+**Jaeseo Lim**, and Jooyong Park. <br>
+72nd Annual conference on Korean psychological association, August 2018.
