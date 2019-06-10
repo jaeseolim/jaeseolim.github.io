@@ -30,8 +30,13 @@ Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 International Joint Conference on Artificial Intelligence, 2019.<br>
 *Submitted* <br> 
 <br> -->
+<b>Discussions: A Medium that Promotes Learning</b> <br>
+**Jaeseo Lim**, Bongju Shin, and Jooyong Park. <br>
+The 83rd Annual Convention of the Japanese Psychological Association
+*Submitted* <br>
+<br>
 <b>WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
-Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**<br>
+Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**.<br>
 Mobile HCI, 2019. <br>
 *Submitted* <br>
 <br>
