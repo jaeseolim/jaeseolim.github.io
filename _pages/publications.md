@@ -59,6 +59,7 @@ The 41st Annual Meeting of the Cognitive Science Society, July, 2019. <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 arXiv, 2019.<br> 
 <br> -->
+<br>
 <b>[C5] How to Enhance Discussion Effect on Learning</b> <br>
 **Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jungjoon Ihm, and Jooyong Park. <br>
 The 31st Association for Psychological Science (APS) Annual Convention, May 2019. <br>
