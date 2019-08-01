@@ -45,7 +45,7 @@ International Conference on cognitive science, August, 2019.<br>
 
 
 ## 2019
-<b>WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
+<b>[C8]WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
 Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**.<br>
 Mobile HCI, 2019. <br>
 <br>
