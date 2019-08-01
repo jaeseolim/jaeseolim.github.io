@@ -37,17 +37,14 @@ The 83rd Annual Convention of the Japanese Psychological Association<br>
 <br>
 
 
-<b>Human-like Memory Architecture for Visual Reference Resolution</b> <br>
-**Jaeseo Lim**, Gi-Cheon Kang, and Byoung-Tak Zhang.<br>
-International Conference on cognitive science, August, 2019.<br>
-*Submitted* <br>
-<br>
-
-
 ## 2019
-<b>[C8]WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
+<b>[C9] WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
 Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**.<br>
 Mobile HCI, 2019. <br>
+<br>
+<b>[C8] Human-like Memory Architecture for Visual Reference Resolution</b> <br>
+**Jaeseo Lim**, Gi-Cheon Kang, and Byoung-Tak Zhang.<br>
+International Conference on Cognitive Science 2019, August, 2019.<br>
 <br>
 <b>[C7] Simulating Problem Difficulty in Arithmetic Cognition Through Dynamic Connectionist Models</b> <br> 
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
