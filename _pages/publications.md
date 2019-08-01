@@ -39,7 +39,7 @@ The 83rd Annual Convention of the Japanese Psychological Association<br>
 
 ## 2019
 <b>[C9] WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
-Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**.<br>
+Taehyeong Kim, Minji Kwak, Seung Hee Yang,**Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 21st International Conference on Human-Computer Interaction with Mobile Devices and Services, October 2019. <br>
 <br>
 <b>[C8] Human-like Memory Architecture for Visual Reference Resolution</b> <br>
