@@ -35,11 +35,8 @@ International Joint Conference on Artificial Intelligence, 2019.<br>
 The 83rd Annual Convention of the Japanese Psychological Association<br>
 *Submitted* <br>
 <br>
-<b>WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
-Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**.<br>
-Mobile HCI, 2019. <br>
-*Submitted* <br>
-<br>
+
+
 <b>Human-like Memory Architecture for Visual Reference Resolution</b> <br>
 **Jaeseo Lim**, Gi-Cheon Kang, and Byoung-Tak Zhang.<br>
 International Conference on cognitive science, August, 2019.<br>
@@ -48,6 +45,10 @@ International Conference on cognitive science, August, 2019.<br>
 
 
 ## 2019
+<b>WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
+Taehyeong Kim, Minji Kwak, Seung Hee Yang, and **Jaeseo Lim**.<br>
+Mobile HCI, 2019. <br>
+<br>
 <b>[C7] Simulating Problem Difficulty in Arithmetic Cognition Through Dynamic Connectionist Models</b> <br> 
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
 The 17th International Conference on Cognitive Modelling (ICCM 2019), July, 2019. <br>
