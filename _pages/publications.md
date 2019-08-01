@@ -10,11 +10,11 @@ Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *in progress*<br>
 <br>
 <b>How to Enhance Discussion Effect on Learning</b> <br>
-**Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jungjoon Ihm, and Jooyong Park. <br>
+**Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jung-Joon Ihm, and Jooyong Park. <br>
 *in progress*<br>
 <br>
 <b>The Effect of Peer Assessment on Writing Ability in University Classes</b> <br>
-Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
+Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *in progress*<br>
 <br>
 <b>When Are Discussions More Effective?</b> <br>
@@ -59,11 +59,11 @@ arXiv, 2019.<br>
 <br> -->
 <br>
 <b>[C5] How to Enhance Discussion Effect on Learning</b> <br>
-**Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jungjoon Ihm, and Jooyong Park. <br>
+**Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jung-Joon Ihm, and Jooyong Park. <br>
 The 31st Association for Psychological Science (APS) Annual Convention, May 2019. <br>
 <br>
 <b>[C4] Grit Can Hurt You</b> <br>
-Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
+Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 The 31st Association for Psychological Science (APS) Annual Convention, May 2019.<br>
 <br>
 <b>[C3] Constructing Hierarchical Q&A Datasets for Video Story Understanding</b> <br>
