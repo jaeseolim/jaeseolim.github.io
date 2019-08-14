@@ -6,7 +6,7 @@ author_profile: true
 
 ## Preprints
 <b>Grit Can Hurt You</b> <br>
-Jung Ae Park, Minhae Song, **Jaeseo Lim**, and Jooyong Park. <br>
+Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *in progress*<br>
 <br>
 <b>How to Enhance Discussion Effect on Learning</b> <br>
