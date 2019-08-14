@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jaeseo Lim is a master student who majors in cognitive science at [Seoul National University](http://en.snu.ac.kr). His supervisor is [Prof. Jooyong Park](http://psych.snu.ac.kr/en/professor/park-joo-yong). His research interests range memory, learning science, and cognitive science.<br>
+Jaeseo Lim is a Ph.D student who majors in cognitive science at [Seoul National University](http://en.snu.ac.kr). His supervisor is [Prof. Jooyong Park](http://psych.snu.ac.kr/en/professor/park-joo-yong). His research interests range memory, learning science, and cognitive science.<br>
 
 Jaeseo Lim is a cognitive science researcher interested in issues of how students learn complex concepts introduced in students' science texts. One line of his studies examines ways of improving students' learning. This has included demonstrating how students can learn better by active-studying, understanding why disucssing is an effective instructional method from the students' perspective, and more recently, he has investigated a method of effective learning, by having small groups of students discuss collaboratively with a peer.
 
