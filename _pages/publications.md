@@ -38,12 +38,16 @@ The 83rd Annual Convention of the Japanese Psychological Association<br>
 
 
 ## 2019
+<b>[C10] Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
+Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
+Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019.<br> 
+<br>
 <b>[C9] WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
 Taehyeong Kim, Minji Kwak, Seung Hee Yang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 21st International Conference on Human-Computer Interaction with Mobile Devices and Services, October 2019. <br>
 <br>
 <b>[C8] Human-like Memory Architecture for Visual Reference Resolution</b> <br>
-**Jaeseo Lim**, Gi-Cheon Kang, and Byoung-Tak Zhang.<br>
+**Jaeseo Lim**, Gi-Cheon Kang, Jooyong Park, and Byoung-Tak Zhang.<br>
 International Conference on Cognitive Science 2019, August, 2019.<br>
 <br>
 <b>[C7] Simulating Problem Difficulty in Arithmetic Cognition Through Dynamic Connectionist Models</b> <br> 
@@ -53,10 +57,7 @@ The 17th International Conference on Cognitive Modelling (ICCM 2019), July, 2019
 <b>[C6] Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
 The 41st Annual Meeting of the Cognitive Science Society, July, 2019. <br>
-<!--<b>[Dual Attention Networks for Visual Reference Resolution in Visual Dialog](https://arxiv.org/abs/1902.09368)</b> <br>
-Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
-arXiv, 2019.<br> 
-<br> -->
+<br> 
 <br>
 <b>[C5] How to Enhance Discussion Effect on Learning</b> <br>
 **Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jung-Joon Ihm, and Jooyong Park. <br>
