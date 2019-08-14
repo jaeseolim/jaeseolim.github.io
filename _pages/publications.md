@@ -52,7 +52,6 @@ The 17th International Conference on Cognitive Modelling (ICCM 2019), July, 2019
 <b>[C6] Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
 The 41st Annual Meeting of the Cognitive Science Society, July, 2019. <br>
-<br> 
 <br>
 <b>[C5] How to Enhance Discussion Effect on Learning</b> <br>
 **Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jung-Joon Ihm, and Jooyong Park. <br>
