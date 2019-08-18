@@ -31,15 +31,15 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 ## 2019
 <b>[C11] Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
-Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019.<br> 
+Conference on Empirical Methods in Natural Language Processing (EMNLP), November, 2019.<br> 
 <br>
 <b>[C10] WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
 Taehyeong Kim, Minji Kwak, Seung Hee Yang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
-21st International Conference on Human-Computer Interaction with Mobile Devices and Services, October 2019. <br>
+21st International Conference on Human-Computer Interaction with Mobile Devices and Services, October, 2019. <br>
 <br>
 <b>[C9] Discussions: A Medium that Promotes Learning</b> <br>
 **Jaeseo Lim**, Bongju Shin, and Jooyong Park. <br>
-The 83rd Annual Convention of the Japanese Psychological Association<br>
+The 83rd Annual Convention of the Japanese Psychological Association, September, 2019<br>
 <br>
 <b>[C8] Human-like Memory Architecture for Visual Reference Resolution</b> <br>
 **Jaeseo Lim**, Gi-Cheon Kang, Jooyong Park, and Byoung-Tak Zhang.<br>
