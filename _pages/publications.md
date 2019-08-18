@@ -9,9 +9,9 @@ author_profile: true
 Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *in progress*<br>
 <br>
-<b>How to Enhance Discussion Effect on Learning</b> <br>
+<b>How to Enhance Learning Achievement through Discussions in Medical Education</b> <br>
 **Jaeseo Lim**, Songeui Kim, Ji Won Yang, Jung-Joon Ihm, and Jooyong Park. <br>
-*in progress*<br>
+*submitted*<br>
 <br>
 <b>The Effect of Peer Assessment on Writing Ability in University Classes</b> <br>
 Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
@@ -19,11 +19,11 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 <br>
 <b>When Are Discussions More Effective?</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
-*in progress* <br>
+*submitted* <br>
 <br>
 <b>Discussions: A Medium that Promotes Learning</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
-*in progress* <br>
+*submitted* <br>
 <br>
 <br>
 
