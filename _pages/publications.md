@@ -53,7 +53,7 @@ The 17th International Conference on Cognitive Modelling (ICCM 2019), July, 2019
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
 The 41st Annual Meeting of the Cognitive Science Society, July, 2019. <br>
 <br>
-<b>[C6] Sequential Attention-based Networks for Visual Reference Resolution in Visual Dialog
+<b>[C6] Sequential Attention-based Networks for Visual Reference Resolution in Visual Dialog</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 The 37st information Technology and Industry Prospects (iTIP 2019), June, 2019. <br>  
 <br>
