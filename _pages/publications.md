@@ -25,6 +25,11 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
 *submitted* <br>
 <br>
+<b>Wearable Technologies: Acceptance Model for Smartwatch Adoption among Older Adults</b> <br>
+May Jorella S.Lazaro, **Jaeseo Lim**, Sung Ho Kim, and Myung Hwan Yun. <br>
+22nd International Conference on Human-Computer Interaction, July, 2020. <br>
+*submitted* <br>
+<br>
 <br>
 
 
