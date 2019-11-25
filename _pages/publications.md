@@ -25,15 +25,14 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
 *submitted* <br>
 <br>
-<b>Wearable Technologies: Acceptance Model for Smartwatch Adoption among Older Adults</b> <br>
-May Jorella S.Lazaro, **Jaeseo Lim**, Sung Ho Kim, and Myung Hwan Yun. <br>
-22nd International Conference on Human-Computer Interaction, July, 2020. <br>
-*submitted* <br>
-<br>
 <br>
 
 
 ## 2019
+<b>[C13] Wearable Technologies: Acceptance Model for Smartwatch Adoption among Older Adults</b> <br>
+May Jorella S.Lazaro, **Jaeseo Lim**, Sung Ho Kim, and Myung Hwan Yun. <br>
+22nd International Conference on Human-Computer Interaction, July, 2020. <br>
+<br>
 <b>[C12] Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
 Conference on Empirical Methods in Natural Language Processing (EMNLP), November, 2019.<br> 
