@@ -29,6 +29,10 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 
 
 ## 2019
+<b>[J1] Active Learning Through Discussion: ICAP Framework for Education in Health Professions</b> <br>
+**Jaeseo Lim**, Hyunwoong Ko, Songeui Kim, Ji Won Yang, Seunghee Lee, Myungsun Chun, Jung-Joon Ihm, and Jooyong Park. <br>
+BMC Medical Education, 2019 <br>
+<br>
 <b>[C13] Wearable Technologies: Acceptance Model for Smartwatch Adoption among Older Adults</b> <br>
 May Jorella S.Lazaro, **Jaeseo Lim**, Sung Ho Kim, and Myung Hwan Yun. <br>
 22nd International Conference on Human-Computer Interaction, July, 2020. <br>
