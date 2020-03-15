@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Jaeseo Lim"
 title_separator          : "-"
 name                     : &name "Jaeseo Lim"
-description              : &description "Master student at SNU"
+description              : &description "Ph.D student at SNU"
 url                      : https://jaeseolim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jaeseolim.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Master student at Seoul National University, major in cognitive psychology."
+  bio              : "Ph.D student at Seoul National University, major in cognitive psychology."
   location         : "Seoul, South Korea"
   employer         :
   googlescholar    : 
