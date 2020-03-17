@@ -77,7 +77,7 @@ The 31st Association for Psychological Science (APS) Annual Convention, May 2019
 Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang Ryu, Byung-Chull Bae, and Byoung-Tak Zhang.<br>
 2019 AAAI Spring Symposia, March 2019. <br> 
 <br>
-<b>[C2] When Are Discussions More Effective: After a Lecture or Self-study?</b> <br>
+<b>[C2] When Are Discussions More Effective: After a Lecture or Self-Study?</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
 8th Annual International Conference on Cognitive and Behavioral Psychology (CBP), Feburary 2019.
 
