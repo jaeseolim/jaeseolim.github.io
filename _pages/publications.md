@@ -50,7 +50,7 @@ International Conference on Cognitive Science 2019, August, 2019.<br>
 <br>
 <b>[C9] Simulating Problem Difficulty in Arithmetic Cognition Through Dynamic Connectionist Models</b> <br> 
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
-The 17th International Conference on Cognitive Modelling (ICCM 2019), July, 2019. <br>
+The 17th International Conference on Cognitive Modeling (ICCM 2019), July, 2019. <br>
 <br>
 <b>[C8] Problem Difficulty in Arithmetic Cognition: Humans and Connectionist Models</b> <br>
 Sungjae Cho, **Jaeseo Lim**, Chris Hickey, and Byoung-Tak Zhang.<br>
