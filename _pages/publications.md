@@ -5,21 +5,37 @@ author_profile: true
 ---
 
 ## Preprints
-<b>Grit Can Hurt You</b> <br>
+<b>The Impact of Writing on Academic Performance for Pre-Med Students</b> <br>
+Songeui Kim, Ji Won Yang, **Jaeseo Lim**, Seung-Hee Lee, Jung-Joon Ihm, and Jooyong Park. <br>
+*under review*<br>
+<br>
+<b>Two Faces of Grit</b> <br>
 Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
-*in progress*<br>
+*under review*<br>
 <br>
-<b>The Effect of Peer Assessment on Writing Ability in University Classes</b> <br>
-Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
-*in progress*<br>
+<b>Devil's Advocate: Novel Boosting Ensemble Method for Text Classification</b> <br>
+Hwiyeol Jo, **Jaeseo Lim**, and Byoung-Tak Zhang. <br>
+*under review*<br>
 <br>
-<b>When Are Discussions More Effective?</b> <br>
+<b>When Do Humans and Machines Learn Better: Comparing Learning From Passive and From Active</b> <br>
+**Jaeseo Lim**, Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
+*under review*<br>
+<br>
+<b>Enhancing Language Generation Using Negative Examples</b> <br>
+Seonil Son, Youwon Jang, JAEYOUNG LEE, **Jaeseo Lim**, and Byoung-Tak Zhang. <br>
+*under review*<br>
+<br>
+<b>Active Pre-Discussion Activity Enhances Discussion Effect upon Learning</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
 *submitted* <br>
 <br>
 <b>Discussions: A Medium that Promotes Learning</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
 *submitted* <br>
+<br>
+<b>The Effect of Peer Assessment on Writing Ability in University Classes</b> <br>
+Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
+*in progress*<br>
 <br>
 <br>
 
