@@ -30,7 +30,7 @@ BMC Medical Education, 2019. <br>
 <br>
 <b>[C14] Wearable Technologies: Acceptance Model for Smartwatch Adoption among Older Adults</b> <br>
 May Jorella S.Lazaro, **Jaeseo Lim**, Sung Ho Kim, and Myung Hwan Yun. <br>
-22nd International Conference on Human-Computer Interaction, July, 2020. <br>
+The 22nd International Conference on Human-Computer Interaction, July, 2020. <br>
 <br>
 <b>[C13] Dual Attention Networks for Visual Reference Resolution in Visual Dialog</b> <br>
 Gi-Cheon Kang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
@@ -38,7 +38,7 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP), November
 <br>
 <b>[C12] WithDorm: A Dormitory Solution for Connecting Roommates</b> <br>
 Taehyeong Kim, Minji Kwak, Seung Hee Yang, **Jaeseo Lim**, and Byoung-Tak Zhang.<br>
-21st International Conference on Human-Computer Interaction with Mobile Devices and Services, October, 2019. <br>
+The 21st International Conference on Human-Computer Interaction with Mobile Devices and Services, October, 2019. <br>
 <br>
 <b>[C11] Discussions: A Medium that Promotes Learning</b> <br>
 **Jaeseo Lim**, Bongju Shin, and Jooyong Park. <br>
@@ -79,10 +79,10 @@ Yu-Jung Heo, Kyoung-Woon On, Seongho Choi, **Jaeseo Lim**, Jinah Kim, Je-Kwang R
 <br>
 <b>[C2] When Are Discussions More Effective: After a Lecture or Self-Study?</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
-8th Annual International Conference on Cognitive and Behavioral Psychology (CBP), Feburary 2019.
+The 8th Annual International Conference on Cognitive and Behavioral Psychology (CBP), Feburary 2019.
 
 
 ## 2018
 <b>[C1] How Learning Method Affect Learning Outcome: Focusing on Discussions in Learning</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
-72nd Annual conference on Korean psychological association, August 2018.
+The 72nd Annual conference on Korean psychological association, August 2018.
