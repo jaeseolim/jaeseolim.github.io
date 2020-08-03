@@ -17,10 +17,6 @@ Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 Hwiyeol Jo, **Jaeseo Lim**, and Byoung-Tak Zhang. <br>
 *under review*<br>
 <br>
-<b>When Do Humans and Machines Learn Better: Comparing Learning From Passive and From Active</b> <br>
-**Jaeseo Lim**, Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
-*under review*<br>
-<br>
 <b>Enhancing Language Generation Using Negative Examples</b> <br>
 Seonil Son, Youwon Jang, JAEYOUNG LEE, **Jaeseo Lim**, and Byoung-Tak Zhang. <br>
 *under review*<br>
@@ -40,6 +36,10 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 <br>
 
 ## 2019
+<b>[C15] Comparing Learning Outcomes After Different Pre-Learning Activities Learning</b> <br>
+**Jaeseo Lim**, Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
+*Abstract.* The 42nd Annual Meeting of the Cognitive Science Society, July, 2020. <br>
+<br>
 <b>[J1] Active Learning Through Discussion: ICAP Framework for Education in Health Professions</b> <br>
 **Jaeseo Lim**, Hyunwoong Ko, Songeui Kim, Ji Won Yang, Seunghee Lee, Myungsun Chun, Jung-Joon Ihm, and Jooyong Park. <br>
 BMC Medical Education, 2019. <br>
