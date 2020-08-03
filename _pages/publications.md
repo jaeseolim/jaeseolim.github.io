@@ -36,7 +36,7 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 <br>
 
 ## 2019
-<b>[C15] Comparing Learning Outcomes After Different Pre-Learning Activities Learning</b> <br>
+<b>[C15] Comparing Learning Outcomes After Different Pre-Learning Activities</b> <br>
 **Jaeseo Lim**, Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
 *Abstract.* The 42nd Annual Meeting of the Cognitive Science Society, July, 2020. <br>
 <br>
