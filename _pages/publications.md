@@ -13,9 +13,9 @@ Songeui Kim, Ji Won Yang, **Jaeseo Lim**, Seung-Hee Lee, Jung-Joon Ihm, and Jooy
 Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *under review*<br>
 <br>
-<b>Devil's Advocate: Novel Boosting Ensemble Method for Text Classification</b> <br>
+#<b>Devil's Advocate: Novel Boosting Ensemble Method for Text Classification</b> <br>
 Hwiyeol Jo, **Jaeseo Lim**, and Byoung-Tak Zhang. <br>
-*under review*<br>
+*under review*<br>#
 <br>
 <b>Enhancing Language Generation Using Negative Examples</b> <br>
 Seonil Son, Youwon Jang, JAEYOUNG LEE, **Jaeseo Lim**, and Byoung-Tak Zhang. <br>
