@@ -5,10 +5,6 @@ author_profile: true
 ---
 
 ## Preprints
-<b>The Impact of Writing on Academic Performance for Pre-Med Students</b> <br>
-Songeui Kim, Ji Won Yang, **Jaeseo Lim**, Seung-Hee Lee, Jung-Joon Ihm, and Jooyong Park. <br>
-*under review*<br>
-<br>
 <b>Two Faces of Grit</b> <br>
 Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *under review*<br>
@@ -35,11 +31,24 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 <br>
 <br>
 
-## 2019
+## 2021
+<b>The impact of writing on academic performance for medical students</b> <br>
+Songeui Kim, Ji Won Yang, **Jaeseo Lim**, Seung-Hee Lee, Jung-Joon Ihm, and Jooyong Park. <br>
+BMC Medical Education, 2021. <br>
+<br>
+
+## 2020
+<b>[C15] Human-Like Active Learning: Machines Simulating the Human Learning Process</b> <br>
+**Jaeseo Lim**, Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
+The 34th Conference on Neural Information Processing Systems (NeurIPS 2020) Workshop on Babymind, 2020. \textbf{(Spotlight Talks)} <br>
+<br>
+
 <b>[C15] Comparing Learning Outcomes After Different Pre-Learning Activities</b> <br>
 **Jaeseo Lim**, Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
 *Abstract.* The 42nd Annual Meeting of the Cognitive Science Society, July, 2020. <br>
 <br>
+
+## 2019
 <b>[J1] Active Learning Through Discussion: ICAP Framework for Education in Health Professions</b> <br>
 **Jaeseo Lim**, Hyunwoong Ko, Songeui Kim, Ji Won Yang, Seunghee Lee, Myungsun Chun, Jung-Joon Ihm, and Jooyong Park. <br>
 BMC Medical Education, 2019. <br>
