@@ -32,7 +32,7 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 <br>
 
 ## 2021
-<b>The impact of writing on academic performance for medical students</b> <br>
+<b>[J2] The impact of writing on academic performance for medical students</b> <br>
 Songeui Kim, Ji Won Yang, **Jaeseo Lim**, Seung-Hee Lee, Jung-Joon Ihm, and Jooyong Park. <br>
 BMC Medical Education, 2021. <br>
 <br>
