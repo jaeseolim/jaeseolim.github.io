@@ -34,7 +34,7 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 ## 2021
 <b>[C17] Passive Versus Active: Frameworks of Active Learning for Linking Humans to Machines</b> <br>
 **Jaeseo Lim**, Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
-The 43nd Annual Meeting of the Cognitive Science Society, July, 2021. <br>
+The 43rd Annual Meeting of the Cognitive Science Society, July, 2021. <br>
 <br>
 
 <b>[J2] The impact of writing on academic performance for medical students</b> <br>
