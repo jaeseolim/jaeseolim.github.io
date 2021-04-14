@@ -32,13 +32,18 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 <br>
 
 ## 2021
+<b>[C17] Passive Versus Active: Frameworks of Active Learning for Linking Humans to Machines</b> <br>
+**Jaeseo Lim**, Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
+The 43nd Annual Meeting of the Cognitive Science Society, July, 2021. <br>
+<br>
+
 <b>[J2] The impact of writing on academic performance for medical students</b> <br>
 Songeui Kim, Ji Won Yang, **Jaeseo Lim**, Seung-Hee Lee, Jung-Joon Ihm, and Jooyong Park. <br>
 BMC Medical Education, 2021. <br>
 <br>
 
 ## 2020
-<b>[C15] Human-Like Active Learning: Machines Simulating the Human Learning Process</b> <br>
+<b>[C16] Human-Like Active Learning: Machines Simulating the Human Learning Process</b> <br>
 **Jaeseo Lim**, Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
 The 34th Conference on Neural Information Processing Systems (NeurIPS 2020) Workshop on Babymind, 2020. \textbf{(Spotlight Talks)} <br>
 <br>
