@@ -45,7 +45,7 @@ BMC Medical Education, 2021. <br>
 ## 2020
 <b>[C16] Human-Like Active Learning: Machines Simulating the Human Learning Process</b> <br>
 **Jaeseo Lim**, Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
-The 34th Conference on Neural Information Processing Systems (NeurIPS 2020) Workshop on Babymind, 2020. \textbf{(Spotlight Talks)} <br>
+The 34th Conference on Neural Information Processing Systems (NeurIPS 2020) Workshop on Babymind, 2020. **(Spotlight Talks)**} <br>
 <br>
 
 <b>[C15] Comparing Learning Outcomes After Different Pre-Learning Activities</b> <br>
