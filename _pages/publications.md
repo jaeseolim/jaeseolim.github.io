@@ -9,10 +9,6 @@ author_profile: true
 Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *under review*<br>
 <br>
-<b>Devil's Advocate: Novel Boosting Ensemble Method for Text Classification</b> <br>
-Hwiyeol Jo, **Jaeseo Lim**, and Byoung-Tak Zhang. <br>
-*under review*<br>
-<br>
 <b>Enhancing Language Generation Using Negative Examples</b> <br>
 Seonil Son, Youwon Jang, JAEYOUNG LEE, **Jaeseo Lim**, and Byoung-Tak Zhang. <br>
 *under review*<br>
@@ -29,6 +25,11 @@ Seonil Son, Youwon Jang, JAEYOUNG LEE, **Jaeseo Lim**, and Byoung-Tak Zhang. <br
 Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *in progress*<br>
 <br>
+<br>
+## 2022
+<b>[C18] The Way to Better Learning Online: Online Discussions for College Students during COVID-19</b> <br>
+**Jaeseo Lim**, Ji Won Yang, Junho Lee and Jooyong Park. <br>
+The 16th International Conference of the Learning Sciences (ICLS), June, 2022. <br>
 <br>
 
 ## 2021
