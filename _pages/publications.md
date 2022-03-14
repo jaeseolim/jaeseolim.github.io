@@ -27,6 +27,11 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 <br>
 <br>
 ## 2022
+<b>[C19] Optimizing Online Discussions to Promote Learning for Medical Students</b> <br>
+**Jaeseo Lim**, Yongmin Shin, Jooyong Park and Jung-Joon Ihm. <br>
+*Abstract.* The 33rd Association for Psychological Science (APS) Annual Convention, May, 2022. <br>
+<br>
+
 <b>[C18] The Way to Better Learning Online: Online Discussions for College Students during COVID-19</b> <br>
 **Jaeseo Lim**, Ji Won Yang, Junho Lee and Jooyong Park. <br>
 The 16th International Conference of the Learning Sciences (ICLS), June, 2022. <br>
