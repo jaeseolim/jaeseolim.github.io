@@ -33,7 +33,7 @@ BMC Medical Education, 2022. <br>
 <br>
 
 <b>[C22] Emotion Evaluator: Expanding the Affective Lexicon with Neural Network Model</b> <br>
-Junho Lee and **Jaeseo Lim**, Jooyong Park and Cheong-Tag Kim. <br>
+Junho Lee and **Jaeseo Lim** (*co-first author*), Jooyong Park and Cheong-Tag Kim. <br>
 In Proceedings of the 44th Annual Meeting of the Cognitive Science Society, July, 2022. <br>
 <br>
 
@@ -54,7 +54,7 @@ The 16th International Conference of the Learning Sciences (ICLS), June, 2022. <
 
 ## 2021
 <b>[C18] Devil's Advocate: Novel Boosting Ensemble Method from Psychological Findings for Text Classification</b> <br>
-Hwiyeol Jo and **Jaeseo Lim**, and Byoung-Tak Zhang <br>
+Hwiyeol Jo and **Jaeseo Lim** (*co-first author*), and Byoung-Tak Zhang <br>
 The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021. <br>
 <br>
 
