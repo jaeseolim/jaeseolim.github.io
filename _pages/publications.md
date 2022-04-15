@@ -27,24 +27,39 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 <br>
 <br>
 ## 2022
-<b>[C20] Optimizing Online Discussions to Promote Learning for Medical Students</b> <br>
+<b>[J3] Effect of active learning and online discussions on the academic performances of dental students</b> <br>
+**Jaeseo Lim**, Hyunwoong Ko, Jooyong Park and Jung-Joon Ihm. <br>
+BMC Medical Education, 2022. <br>
+<br>
+
+<b>[C22] Emotion Evaluator: Expanding the Affective Lexicon with Neural Network Model</b> <br>
+Junho Lee and **Jaeseo Lim**, Jooyong Park and Cheong-Tag Kim. <br>
+In Proceedings of the 44th Annual Meeting of the Cognitive Science Society, July, 2022. <br>
+<br>
+
+<b>[C21] Optimizing Online Discussions to Promote Learning for Medical Students</b> <br>
 **Jaeseo Lim**, Yongmin Shin, Jooyong Park and Jung-Joon Ihm. <br>
 *Abstract.* The 33rd Association for Psychological Science (APS) Annual Convention, May, 2022. <br>
 <br>
 
-<b>[C19] The Effect of Weekly Writing and Peer Reviewing Upon Students’ Writing Competence </b> <br>
+<b>[C20] The Effect of Weekly Writing and Peer Reviewing Upon Students’ Writing Competence </b> <br>
 Min Hae Song, **Jaeseo Lim** and Jooyong Park. <br>
 The 16th International Conference of the Learning Sciences (ICLS), June, 2022. <br>
 <br>
 
-<b>[C18] The Way to Better Learning Online: Using Online Discussions in College Classes During COVID-19 </b> <br>
+<b>[C19] The Way to Better Learning Online: Using Online Discussions in College Classes During COVID-19 </b> <br>
 **Jaeseo Lim**, Ji Won Yang, Junho Lee and Jooyong Park. <br>
 The 16th International Conference of the Learning Sciences (ICLS), June, 2022. <br>
 <br>
 
 ## 2021
+<b>[C18] Devil's Advocate: Novel Boosting Ensemble Method from Psychological Findings for Text Classification</b> <br>
+Hwiyeol Jo and **Jaeseo Lim**, and Byoung-Tak Zhang <br>
+The 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021. <br>
+<br>
+
 <b>[C17] Passive Versus Active: Frameworks of Active Learning for Linking Humans to Machines</b> <br>
-**Jaeseo Lim**, Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
+**Jaeseo Lim** and Hwiyeol Jo, Byoung-Tak Zhang, and Jooyong Park. <br>
 The 43rd Annual Meeting of the Cognitive Science Society, July, 2021. <br>
 <br>
 
