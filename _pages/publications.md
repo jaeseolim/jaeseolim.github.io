@@ -3,12 +3,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+ 
 ## Preprints
-<b>Two Faces of Grit</b> <br>
-Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
-*under review*<br>
-<br>
 <b>Enhancing Language Generation Using Negative Examples</b> <br>
 Seonil Son, Youwon Jang, JAEYOUNG LEE, **Jaeseo Lim**, and Byoung-Tak Zhang. <br>
 *under review*<br>
@@ -27,6 +23,11 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 <br>
 <br>
 ## 2022
+<b>[J4]Two Faces of Grit-Perseverance: Is It Always Good to Exert Grit?</b> <br>
+Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
+Journal of Cognitive Psychology <br>
+<br>
+
 <b>[J3] Effect of active learning and online discussions on the academic performances of dental students</b> <br>
 **Jaeseo Lim**, Hyunwoong Ko, Jooyong Park and Jung-Joon Ihm. <br>
 BMC Medical Education, 2022. <br>
