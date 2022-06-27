@@ -25,7 +25,7 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 ## 2022
 <b>[J4] Two Faces of Grit-Perseverance: Is It Always Good to Exert Grit?</b> <br>
 Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
-Journal of Cognitive Psychology <br>
+Journal of Cognitive Psychology, 2022.<br>
 <br>
 
 <b>[J3] Effect of active learning and online discussions on the academic performances of dental students</b> <br>
