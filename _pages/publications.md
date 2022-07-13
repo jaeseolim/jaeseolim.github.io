@@ -5,21 +5,28 @@ author_profile: true
 ---
  
 ## Preprints
+<b> Modeling an Experience Using a Deep Neural Network: Safe Reinforcement Learning for Autonomous Driving Based on Prior Network.</b> <br>
+Kyungdo Kim, and **Jaeseo Lim**. <br>
+*under review*<br>
 <b> Enhancing Language Generation Using Negative Examples</b> <br>
 Seonil Son, Youwon Jang, JAEYOUNG LEE, **Jaeseo Lim**, and Byoung-Tak Zhang. <br>
 *under review*<br>
 <br>
 <b> Active Pre-Discussion Activity Enhances Discussion Effect upon Learning</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
-*submitted* <br>
+*under review* <br>
 <br>
-<b> Discussions: A Medium that Promotes Learning</b> <br>
-**Jaeseo Lim**, and Jooyong Park. <br>
-*submitted* <br>
+<b> Effects of virtual body-representation on motor skill learning</b> <br>
+Yongmin Shin, **Jaeseo Lim**, and Jung-Joon Ihm. <br>
+*under review* <br>
+<br>
+<b> Active Before Interactive? How Teachers Use Discussions in Offline and Online Classrooms.</b> <br>
+**Jaeseo Lim**, Yongmin Shin, Min Hae Song, and Jung-Joon Ihm. <br>
+*under review* <br>
 <br>
 <b> The Effect of Peer Assessment on Writing Ability in University Classes</b> <br>
 Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
-*in progress*<br>
+*under review*<br>
 <br>
 <br>
 ## 2022
