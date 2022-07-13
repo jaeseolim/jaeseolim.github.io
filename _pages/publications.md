@@ -8,6 +8,7 @@ author_profile: true
 <b> Modeling an Experience Using a Deep Neural Network: Safe Reinforcement Learning for Autonomous Driving Based on Prior Network.</b> <br>
 Kyungdo Kim, and **Jaeseo Lim**. <br>
 *under review*<br>
+<br>
 <b> Enhancing Language Generation Using Negative Examples</b> <br>
 Seonil Son, Youwon Jang, JAEYOUNG LEE, **Jaeseo Lim**, and Byoung-Tak Zhang. <br>
 *under review*<br>
