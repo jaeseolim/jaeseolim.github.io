@@ -31,6 +31,11 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 <br>
 <br>
 ## 2022
+<b>[J5] Effects of virtual body-representation on motor skill learning</b> <br>
+Yongmin Shin, **Jaeseo Lim**, Yonggwan Kim, Deog-Gyu Seo, and Jungjoon Ihm. <br>
+Scientific Report, 2022. <br>
+<br>
+
 <b>[J4] Two Faces of Grit-Perseverance: Is It Always Good to Exert Grit?</b> <br>
 Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 Journal of Cognitive Psychology, 2022.<br>
