@@ -82,10 +82,10 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Ph.D student at Seoul National University, major in cognitive psychology."
+  bio              : "Ph.D candidate at Seoul National University"
   location         : "Seoul, South Korea"
   employer         :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.co.kr/citations?user=Tb8TY8AAAAAJ&hl=ko"
   email            : "jaeseolim@snu.ac.kr"
   uri              :
   bitbucket        :
