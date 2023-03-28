@@ -17,13 +17,6 @@ Yongmin Shin, **Jaeseo Lim**, and Jung-Joon Ihm. <br>
 Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *under review*<br>
 <br>
-<br>
-## 2023
-<b>[J6] Self-study enhances the learning effect of discussions</b> <br>
-**Jaeseo Lim**, and Jooyong Park. <br>
-Journal of the Learning Sciences, 1-22.<br>
-<br>
-## 2022
 <b> Modeling an Experience Using a Deep Neural Network: Safe Reinforcement Learning for Autonomous Driving Based on Prior Network.</b> <br>
 Kyungdo Kim, and **Jaeseo Lim**. <br>
 Arxiv:2009.10922<br>
@@ -32,6 +25,13 @@ Arxiv:2009.10922<br>
 Seonil Son, **Jaeseo Lim**, Youwon Jang, JAEYOUNG LEE, and Byoung-Tak Zhang. <br>
 arXiv preprint arXiv:2209.10922<br>
 <br>
+<br>
+## 2023
+<b>[J6] Self-study enhances the learning effect of discussions</b> <br>
+**Jaeseo Lim**, and Jooyong Park. <br>
+Journal of the Learning Sciences, 1-22.<br>
+<br>
+## 2022
 <b>[J5] Effects of virtual body-representation on motor skill learning</b> <br>
 Yongmin Shin, **Jaeseo Lim**, Yonggwan Kim, Deog-Gyu Seo, and Jungjoon Ihm. <br>
 Scientific Reports, 12(1), 15283.<br>
