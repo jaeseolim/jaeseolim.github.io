@@ -9,10 +9,6 @@ author_profile: true
 Seonil Son, **Jaeseo Lim**, Youwon Jang, JAEYOUNG LEE, and Byoung-Tak Zhang. <br>
 *under review*<br>
 <br>
-<b> Active Pre-Discussion Activity Enhances Discussion Effect upon Learning</b> <br>
-**Jaeseo Lim**, and Jooyong Park. <br>
-*under review* <br>
-<br>
 <b> Effects of virtual body-representation on motor skill learning</b> <br>
 Yongmin Shin, **Jaeseo Lim**, and Jung-Joon Ihm. <br>
 *under review* <br>
@@ -26,6 +22,11 @@ Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
 *under review*<br>
 <br>
 <br>
+## 2023
+<b>[J6] Self-study enhances the learning effect of discussions</b> <br>
+**Jaeseo Lim**, and Jooyong Park. <br>
+Journal of the Learning Sciences, 1-22.<br>
+<br>
 ## 2022
 <b> Modeling an Experience Using a Deep Neural Network: Safe Reinforcement Learning for Autonomous Driving Based on Prior Network.</b> <br>
 Kyungdo Kim, and **Jaeseo Lim**. <br>
@@ -33,12 +34,12 @@ Arxiv:2009.10922<br>
 <br>
 <b>[J5] Effects of virtual body-representation on motor skill learning</b> <br>
 Yongmin Shin, **Jaeseo Lim**, Yonggwan Kim, Deog-Gyu Seo, and Jungjoon Ihm. <br>
-Scientific Reports, 2022. <br>
+Scientific Reports, 12(1), 15283.<br>
 <br>
 
 <b>[J4] Two Faces of Grit-Perseverance: Is It Always Good to Exert Grit?</b> <br>
 Jung Ae Park, Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
-Journal of Cognitive Psychology, 2022.<br>
+Journal of Cognitive Psychology,34(8), 1063-1074.<br>
 <br>
 
 <b>[J3] Effect of active learning and online discussions on the academic performances of dental students</b> <br>
