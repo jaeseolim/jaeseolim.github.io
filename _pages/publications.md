@@ -5,10 +5,6 @@ author_profile: true
 ---
  
 ## Preprints
-<b> Learning to Write with Coherence From Negative Examples</b> <br>
-Seonil Son, **Jaeseo Lim**, Youwon Jang, JAEYOUNG LEE, and Byoung-Tak Zhang. <br>
-*under review*<br>
-<br>
 <b> Effects of virtual body-representation on motor skill learning</b> <br>
 Yongmin Shin, **Jaeseo Lim**, and Jung-Joon Ihm. <br>
 *under review* <br>
@@ -31,6 +27,10 @@ Journal of the Learning Sciences, 1-22.<br>
 <b> Modeling an Experience Using a Deep Neural Network: Safe Reinforcement Learning for Autonomous Driving Based on Prior Network.</b> <br>
 Kyungdo Kim, and **Jaeseo Lim**. <br>
 Arxiv:2009.10922<br>
+<br>
+<b> Learning to Write with Coherence From Negative Examples</b> <br>
+Seonil Son, **Jaeseo Lim**, Youwon Jang, JAEYOUNG LEE, and Byoung-Tak Zhang. <br>
+arXiv preprint arXiv:2209.10922<br>
 <br>
 <b>[J5] Effects of virtual body-representation on motor skill learning</b> <br>
 Yongmin Shin, **Jaeseo Lim**, Yonggwan Kim, Deog-Gyu Seo, and Jungjoon Ihm. <br>
