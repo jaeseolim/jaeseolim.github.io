@@ -27,6 +27,10 @@ arXiv preprint arXiv:2209.10922<br>
 <br>
 <br>
 ## 2023
+<b>[J7] Improving Learning Effects of Student-Led and Teacher-Led Discussion Contingent on Prediscussion Activity </b> <br>
+**Jaeseo Lim**, Yongmin Shin, Seunghee Lee, Myung-Sun Chun, Jooyong Park, and Junjoon Ihm. <br>
+The Journal of Experimental Education, 1-18.<br>
+<br>
 <b>[J6] Self-study enhances the learning effect of discussions</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
 Journal of the Learning Sciences, 1-22.<br>
