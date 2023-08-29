@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jaeseo Lim is a Ph. D. of interdisciplinary program in cognitive science at [Seoul National University](http://en.snu.ac.kr). His supervisor is [Prof. Jooyong Park](http://psych.snu.ac.kr/en/professor/park-joo-yong). His research interests range learning sciences, and small group discussions.<br>
+Jaeseo Lim is a Ph. D. in interdisciplinary program in cognitive science at [Seoul National University](http://en.snu.ac.kr). His supervisor is [Prof. Jooyong Park](http://psych.snu.ac.kr/en/professor/park-joo-yong). His research interests range learning sciences, and small group discussions.<br>
 
 Jaeseo Lim is a cognitive science researcher interested in issues of how students learn complex concepts introduced in learning materials. One line of his studies examines ways of improving students' learning outcomes through un-structured discussions. This has included demonstrating how students can learn better by active learning, understanding why combination or interaction of different learning activities is an effective instructional method from the students' perspective, and more recently, he has investigated a method of effective learning for improving student engagement, by having small groups of students discuss collaboratively with peers.
 
