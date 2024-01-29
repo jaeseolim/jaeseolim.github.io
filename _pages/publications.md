@@ -27,6 +27,11 @@ arXiv preprint arXiv:2209.10922<br>
 <br>
 <br>
 ## 2023
+<b>[C23] 학습 과제 수행 시 시간 중심 전략이 효과성 검증 연구</b> <br>
+Jung Ae Park, **Jaeseo Lim**, Ji Won Yang, and Jooyong Park and Cheong-Tag Kim. <br>
+2024년도 한국인지및생물심리학회 학술대회, Jan, 2024. <br>
+<br>
+## 2023
 <b>[J7] Improving Learning Effects of Student-Led and Teacher-Led Discussion Contingent on Prediscussion Activity </b> <br>
 **Jaeseo Lim**, Yongmin Shin, Seunghee Lee, Myung-Sun Chun, Jooyong Park, and Junjoon Ihm. <br>
 The Journal of Experimental Education, 1-18.<br>
