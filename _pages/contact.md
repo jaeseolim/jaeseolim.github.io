@@ -4,9 +4,8 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Memory Lab, Department of Psychology <br>
-Seoul National University <br>
-M516, Bldg. 16 <br>
-1 Gwanak-ro, Gwanak-gu, Seoul, 08826, Republic of Korea <br>
-Email: jaeseolim [at] snu.ac.kr <br>
-Office:  +82-2-880-6433
+Jeonju University <br>
+Department of Counseling Psychology <br>
+303, Cheonjam-ro, Wansan-gu, Jeonju-si, Jeonbuk-do, Republic of Korea <br>
+Email: jaeseolim [at] jj.ac.kr <br>
+Office:  +82-2-220-2297
