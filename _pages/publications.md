@@ -5,28 +5,32 @@ author_profile: true
 ---
  
 ## Preprints
-<b> Effects of virtual body-representation on motor skill learning</b> <br>
-Yongmin Shin, **Jaeseo Lim**, and Jung-Joon Ihm. <br>
-*under review* <br>
-<br>
 <b> Active Before Interactive? How Teachers Use Discussions in Offline and Online Classrooms.</b> <br>
 **Jaeseo Lim**, Yongmin Shin, Min Hae Song, and Jung-Joon Ihm. <br>
 *under review* <br>
 <br>
-<b> The Effect of Peer Assessment on Writing Ability in University Classes</b> <br>
-Min Hae Song, **Jaeseo Lim**, and Jooyong Park. <br>
-*under review*<br>
-<br>
 <b> Modeling an Experience Using a Deep Neural Network: Safe Reinforcement Learning for Autonomous Driving Based on Prior Network.</b> <br>
-Kyungdo Kim, and **Jaeseo Lim**. <br>
+Kyungdo Kim, and **[ins]Jaeseo Lim[\ins]**. <br>
 Arxiv:2009.10922<br>
 <br>
-<b> Learning to Write with Coherence From Negative Examples</b> <br>
-Seonil Son, **Jaeseo Lim**, Youwon Jang, JAEYOUNG LEE, and Byoung-Tak Zhang. <br>
-arXiv preprint arXiv:2209.10922<br>
 <br>
+## 2024
+<b>[J11] 대학생의 인간-AI 협력 역량 프로파일 탐색. 교육정보미디어연구, 30(5), 1473-1498. </b> <br>
+Soojeong Jeong, and **[ins]Jaeseo Lim[\ins]**. <br>
+The Journal of Educational Information and Media, 30(5), 1473-1498. <br>
 <br>
-## 2023
+<b>[J10] 비전문가의 평가 정확도 향상 방안 탐색: 공통 평가 항목 점수 기반 가중치 함수를 활용한 점수 보정 방법 연구 </b> <br>
+Min Hae Song, Hyunwoo Gu, Jungyeon Park, **Jaeseo Lim**, and Jooyong Park. <br>
+Korean Journal of Cognitive Science, 35(3), 187-203. <br>
+<br>
+<b>[J9] Self-Study and Discussion Promote Students’ Science Learning </b> <br>
+**Jaeseo Lim**, Ji Won Yang, Min Hae Song, and Jooyong Park. <br>
+Science \& Education, 1-19.<br>
+<br>
+<b>[J8] Self-study in Higher Education: Its Role in Productive Discussions and Learning Outcomes </b> <br>
+**Jaeseo Lim**, Yongmin Shin, Min Hae Song, Seunghee Lee, and Junjoon Ihm. <br>
+Active Learning in Higher Education.<br>
+<br>
 <b>[C23] 학습 과제 수행 시 시간 중심 전략이 효과성 검증 연구</b> <br>
 Jung Ae Park, **Jaeseo Lim**, Ji Won Yang, and Jooyong Park and Cheong-Tag Kim. <br>
 2024년도 한국인지및생물심리학회 학술대회, Jan, 2024. <br>
@@ -34,7 +38,7 @@ Jung Ae Park, **Jaeseo Lim**, Ji Won Yang, and Jooyong Park and Cheong-Tag Kim. 
 ## 2023
 <b>[J7] Improving Learning Effects of Student-Led and Teacher-Led Discussion Contingent on Prediscussion Activity </b> <br>
 **Jaeseo Lim**, Yongmin Shin, Seunghee Lee, Myung-Sun Chun, Jooyong Park, and Junjoon Ihm. <br>
-The Journal of Experimental Education, 1-18.<br>
+The Journal of Experimental Education, 92(4), 626-643.<br>
 <br>
 <b>[J6] Self-study enhances the learning effect of discussions</b> <br>
 **Jaeseo Lim**, and Jooyong Park. <br>
