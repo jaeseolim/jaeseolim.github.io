@@ -31,8 +31,16 @@ Science \& Education, 1-19.<br>
 **Jaeseo Lim**, Yongmin Shin, Min Hae Song, Seunghee Lee, and Junjoon Ihm. <br>
 Active Learning in Higher Education.<br>
 <br>
+<b>[C25] 개요 작성이 글의 질에 미치는 영향</b> <br>
+**임재서**, 송민해, 김가현, 박주용. <br>
+2024 한국심리학회 연차학술대회, Aug, 2024. <br>
+<br>
+<b>[C24] 대학원생의 인간-AI 협력 역량 프로파일 탐색</b> <br>
+백새봄, 임다미, **임재서**, 정수정. <br>
+2024년도 한국교육공학회 춘계학술대회, May, 2024. <br>
+<br>
 <b>[C23] 학습 과제 수행 시 시간 중심 전략이 효과성 검증 연구</b> <br>
-Jung Ae Park, **Jaeseo Lim**, Ji Won Yang, and Jooyong Park and Cheong-Tag Kim. <br>
+박정애, **임재서**, 양지원, 박주용, 김청택.<br>
 2024년도 한국인지및생물심리학회 학술대회, Jan, 2024. <br>
 <br>
 ## 2023
