@@ -10,13 +10,13 @@ author_profile: true
 *under review* <br>
 <br>
 <b> Modeling an Experience Using a Deep Neural Network: Safe Reinforcement Learning for Autonomous Driving Based on Prior Network.</b> <br>
-Kyungdo Kim, and **[ins]Jaeseo Lim[\ins]**. <br>
+Kyungdo Kim, and ***Jaeseo Lim***. <br>
 Arxiv:2009.10922<br>
 <br>
 <br>
 ## 2024
 <b>[J11] 대학생의 인간-AI 협력 역량 프로파일 탐색. 교육정보미디어연구, 30(5), 1473-1498. </b> <br>
-Soojeong Jeong, and **[ins]Jaeseo Lim[\ins]**. <br>
+Soojeong Jeong, and ***Jaeseo Lim***. <br>
 The Journal of Educational Information and Media, 30(5), 1473-1498. <br>
 <br>
 <b>[J10] 비전문가의 평가 정확도 향상 방안 탐색: 공통 평가 항목 점수 기반 가중치 함수를 활용한 점수 보정 방법 연구 </b> <br>
