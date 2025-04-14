@@ -14,8 +14,18 @@ Kyungdo Kim, and ***Jaeseo Lim***. <br>
 Arxiv:2009.10922<br>
 <br>
 <br>
+## 2025
+<b>[J13]Asking Questions Matters: Comparing the Effect of Learning through Dialogue with Peers, ChatGPT, and Intelligent Tutoring System</b><br>
+Ji Wong Yang, Kiroong Choe, **Jaeseo Lim**, and Jooyong Park. <br>
+Interactive Learning Environments. <br>
+<br>
+<b>[J12] Enhancing Group Outcomes: The Role of Individual Preparation in Collaborative Learning, 25(1), 524.</b> <br>
+**Jaeseo Lim** and Min Hae Song, Seunghee Lee, Jungjoon Ihm, and Jooyong Park.<br>
+BMC Medical Education, 25(1), 524. <br>
+<br>
+<br>
 ## 2024
-<b>[J11] 대학생의 인간-AI 협력 역량 프로파일 탐색. 교육정보미디어연구, 30(5), 1473-1498. </b> <br>
+<b>[J11] 대학생의 인간-AI 협력 역량 프로파일 탐색. </b> <br>
 Soojeong Jeong, and ***Jaeseo Lim***. <br>
 The Journal of Educational Information and Media, 30(5), 1473-1498. <br>
 <br>
