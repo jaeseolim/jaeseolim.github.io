@@ -16,7 +16,7 @@ Arxiv:2009.10922<br>
 <br>
 ## 2025
 <b>[C27] The role of Self-Study in Enhancing Collaborative Learning</b> <br>
-J**Jaese Lim** & Min Hae Song <br>
+**Jaese Lim** & Min Hae Song <br>
 The first International Conference On Learning Sciences and Educational Innovation. June, 2025. <br>
 <br>
 <b>[C26] Enhancing Student Learning through Collaborative Digital Media: Evaluating Chemistry Courses via the ICAP Framework</b> <br>
