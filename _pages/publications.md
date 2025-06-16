@@ -6,7 +6,7 @@ author_profile: true
  
 ## Preprints
 <b> Active Before Interactive? How Teachers Use Discussions in Offline and Online Classrooms.</b> <br>
-**Jaeseo Lim**, Yongmin Shin, Min Hae Song, and Jung-Joon Ihm. <br>
+***Jaeseo Lim***, Yongmin Shin, Min Hae Song, and Jung-Joon Ihm. <br>
 *under review* <br>
 <br>
 <b> Modeling an Experience Using a Deep Neural Network: Safe Reinforcement Learning for Autonomous Driving Based on Prior Network.</b> <br>
