@@ -15,7 +15,15 @@ Arxiv:2009.10922<br>
 <br>
 <br>
 ## 2025
-<b>[J13]Asking Questions Matters: Comparing the Effect of Learning through Dialogue with Peers, ChatGPT, and Intelligent Tutoring System</b><br>
+<b>[C27] The role of Self-Study in Enhancing Collaborative Learning</b> <br>
+J**Jaese Lim** & Min Hae Song <br>
+The first International Conference On Learning Sciences and Educational Innovation. June, 2025. <br>
+<br>
+<b>[C26] Enhancing Student Learning through Collaborative Digital Media: Evaluating Chemistry Courses via the ICAP Framework</b> <br>
+Jesse Ha, Man su, Sujeong Jeong, Lin Yan, & **Jaese Lim**. <br>
+교육정보미디어학회 춘계학술대회. May, 2025. <br>
+<br>
+<b>[J13] Asking Questions Matters: Comparing the Effect of Learning through Dialogue with Peers, ChatGPT, and Intelligent Tutoring System</b><br>
 Ji Wong Yang, Kiroong Choe, **Jaeseo Lim**, and Jooyong Park. <br>
 Interactive Learning Environments. <br>
 <br>
