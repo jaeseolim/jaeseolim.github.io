@@ -20,7 +20,7 @@ Arxiv:2009.10922<br>
 The first International Conference On Learning Sciences and Educational Innovation. June, 2025. <br>
 <br>
 <b>[C26] Enhancing Student Learning through Collaborative Digital Media: Evaluating Chemistry Courses via the ICAP Framework</b> <br>
-Jesse Ha, Man su, Sujeong Jeong, Lin Yan, & **Jaese Lim**. <br>
+Jesse Ha, Man su, Soojeong Jeong, Lin Yan, & **Jaese Lim**. <br>
 교육정보미디어학회 춘계학술대회. May, 2025. <br>
 <br>
 <b>[J13] Asking Questions Matters: Comparing the Effect of Learning through Dialogue with Peers, ChatGPT, and Intelligent Tutoring System</b><br>
