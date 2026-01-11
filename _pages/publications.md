@@ -15,17 +15,33 @@ Arxiv:2009.10922<br>
 <br>
 <br>
 ## 2025
+<b>[J18] Improving Writing Performance through Peer Assessment: Beyond Academic Levels and Initial Writing Skills</b><br>
+Min Hae Song,**Jaeseo Lim**, JungYeon Park, and Jooyong Park. <br>
+Innovations in Education and Teaching International, 1-12. <br>
+<b>[J17] Improving Writing Performance through Peer Assessment: Beyond Academic Levels and Initial Writing Skills</b><br>
+Min Hae Song,***Jaeseo Lim***, and Jooyong Park. <br>
+Educational Technology International, 26(2), 195-217. <br>
+<b>[J16] The Impact of Hybrid Collaboration Methods on Idea Quantity, Quality, and Collaborative Interactions</b><br>
+Min Hae Song,**Jaeseo Lim**, Hwimin Kim, and Jooyong Park. <br>
+Psychological Reports <br>
+<b>[J15] The effect of including computerized revision extent scores in grading on writing revisions in psychology courses</b><br>
+Min Hae Song,**Jaeseo Lim**, Hwimin Kim, and Jooyong Park. <br>
+Teaching of Psychology <br>
+<b>[J14] Rethinking preparatory learning for discussion through the ICAP framework: Effects of preparatory self-study on discussion-based learning</b> <br>
+**Jaeseo Lim**<br>
+Journal of Korean Association for Educational Information and Media, 31(4), 1211-1228. <br>
+<br>
 <b>[C27] The role of Self-Study in Enhancing Collaborative Learning</b> <br>
-**Jaese Lim** & Min Hae Song <br>
+**Jaeseo Lim** & Min Hae Song <br>
 The first International Conference On Learning Sciences and Educational Innovation. June, 2025. <br>
 <br>
 <b>[C26] Enhancing Student Learning through Collaborative Digital Media: Evaluating Chemistry Courses via the ICAP Framework</b> <br>
-Jesse Ha, Man su, Soojeong Jeong, Lin Yan, & **Jaese Lim**. <br>
+Jesse Ha, Man su, Soojeong Jeong, Lin Yan, & **Jaeseo Lim**. <br>
 교육정보미디어학회 춘계학술대회. May, 2025. <br>
 <br>
 <b>[J13] Asking Questions Matters: Comparing the Effect of Learning through Dialogue with Peers, ChatGPT, and Intelligent Tutoring System</b><br>
 Ji Wong Yang, Kiroong Choe, **Jaeseo Lim**, and Jooyong Park. <br>
-Interactive Learning Environments. <br>
+Interactive Learning Environments, 33(10), 2459-2477. <br>
 <br>
 <b>[J12] Enhancing Group Outcomes: The Role of Individual Preparation in Collaborative Learning, 25(1), 524.</b> <br>
 **Jaeseo Lim** and Min Hae Song, Seunghee Lee, Jungjoon Ihm, and Jooyong Park.<br>
@@ -43,7 +59,7 @@ Korean Journal of Cognitive Science, 35(3), 187-203. <br>
 <br>
 <b>[J9] Self-Study and Discussion Promote Students’ Science Learning </b> <br>
 **Jaeseo Lim**, Ji Won Yang, Min Hae Song, and Jooyong Park. <br>
-Science \& Education, 1-19.<br>
+Science \& Education, 34(4), 1-19.<br>
 <br>
 <b>[J8] Self-study in Higher Education: Its Role in Productive Discussions and Learning Outcomes </b> <br>
 **Jaeseo Lim**, Yongmin Shin, Min Hae Song, Seunghee Lee, and Junjoon Ihm. <br>
