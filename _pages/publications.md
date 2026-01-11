@@ -18,15 +18,19 @@ Arxiv:2009.10922<br>
 <b>[J18] Improving Writing Performance through Peer Assessment: Beyond Academic Levels and Initial Writing Skills</b><br>
 Min Hae Song, **Jaeseo Lim**, JungYeon Park, and Jooyong Park. <br>
 Innovations in Education and Teaching International, 1-12. <br>
+ <br>
 <b>[J17] Improving Writing Performance through Peer Assessment: Beyond Academic Levels and Initial Writing Skills</b><br>
 Min Hae Song, ***Jaeseo Lim***, and Jooyong Park. <br>
 Educational Technology International, 26(2), 195-217. <br>
+ <br>
 <b>[J16] The Impact of Hybrid Collaboration Methods on Idea Quantity, Quality, and Collaborative Interactions</b><br>
 Min Hae Song, **Jaeseo Lim**, Hwimin Kim, and Jooyong Park. <br>
 Psychological Reports <br>
+ <br>
 <b>[J15] The effect of including computerized revision extent scores in grading on writing revisions in psychology courses</b><br>
 Min Hae Song, **Jaeseo Lim**, Hwimin Kim, and Jooyong Park. <br>
 Teaching of Psychology <br>
+ <br>
 <b>[J14] Rethinking preparatory learning for discussion through the ICAP framework: Effects of preparatory self-study on discussion-based learning</b> <br>
 **Jaeseo Lim**<br>
 Journal of Korean Association for Educational Information and Media, 31(4), 1211-1228. <br>
